@@ -1,0 +1,17 @@
+Number of Employees: 5
+
+Maximum Pay Rate: Washington @ $32.00
+
+Minimun Pay Rate: Kennedy @ $4.99
+
+Average Pay: $12.40
+
+October 2009 Payroll:
+
+Name               Hours        Rate    Gross      Bonus     Adjusted Gross
+
+Clinton               10       10.00    100.00         N               97.50
+Lincoln               50        5.00    250.00         Y              300.00
+Washington            35       32.00   1120.00         N             1120.00
+Kennedy               45        4.99    224.55         N              224.55
+Nixon                 25       10.00    250.00         N              243.75

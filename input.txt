@@ -1,0 +1,5 @@
+Clinton 10.00 10
+Lincoln     5.00 50
+Washington 32.00 35
+Kennedy   4.99 45
+Nixon 10.00 25
